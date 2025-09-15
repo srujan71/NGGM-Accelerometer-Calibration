@@ -1,0 +1,11 @@
+*.pyc
+*.iml
+*.xml
+*.dat
+*.txt
+*.gif
+*.mat
+*.png
+*.npy
+*.csv
+*.svg
